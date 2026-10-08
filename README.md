@@ -35,12 +35,13 @@
 
 ---
 
-<p align="center"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
-<div align="center">
+<p align="center"> <a href="https://www.linkedin.com/in/alvina-faridoon-b2404b43b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+<div >
+  
 🌱 "Learning today, building tomorrow."
 
 ⭐ Thanks for visiting my profile!
 
-</div> ```
+</div> 
 
 
