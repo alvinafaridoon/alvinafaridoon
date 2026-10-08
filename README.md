@@ -4,7 +4,6 @@
 
 ### 🎓 Computer Engineering Student
 
-💻 Learning C++ & Programming | 🌱 Exploring Software Development
 
 </div>
 
@@ -27,7 +26,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 
 </p>
 
