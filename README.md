@@ -1,20 +1,40 @@
-## Hi, I'm Alvina 👋
+<div align="center">
 
-🎓 Computer Engineering Student  
-💻 Currently learning C++ and Programming  
-🌱 Exploring Software Development
+# 👋 Hi, I'm Alvina
 
-<!--
-**alvinafaridoon/alvinafaridoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning C++ & Programming | 🌱 Exploring Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 I'm a **Computer Engineering student**
+- 💻 Currently learning **C++ and Programming**
+- 🌱 Exploring **Software Development**
+- 📚 Building my programming and problem-solving skills
+- 🚀 Always learning something new
+- 💡 Interested in creating useful and meaningful projects
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+
+</p>
+
+<p align="center">
+<b>C++ &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; Programming</b>
+</p>
+
+---
+
+
