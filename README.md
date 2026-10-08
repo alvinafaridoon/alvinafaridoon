@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Alvina 👋
+
+🎓 Computer Engineering Student  
+💻 Currently learning C++ and Programming  
+🌱 Exploring Software Development
 
 <!--
 **alvinafaridoon/alvinafaridoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
